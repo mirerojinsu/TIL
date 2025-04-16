@@ -1,2 +1,2 @@
 # TIL
-TIL 저장소입니다.
+Today I Learned
